@@ -1,0 +1,1 @@
+# support-js3-1-class
